@@ -1,0 +1,249 @@
+Name	Set	ImageFile	Number	Type	Team	Speed	Power	Performance	AP Cost	Modability	Terrain	Text
+Hollowback	AcceleRacers	1	001	Vehicle	Metal Maniacs	3	3	2		Street	Paved	When Hollowback is brought into play, return 1 Mod from your junk pile to your hand.
+Jaw Jammer	AcceleRacers	2	002	Vehicle	Metal Maniacs	4	3	4		Race		
+Rivited	AcceleRacers	3	003	Vehicle	Metal Maniacs	3	4	4		Street, Off-Road 		
+Rolling Thunder	AcceleRacers	4	004	Vehicle	Metal Maniacs	3	3	2		Street, Off-Road	Slick	Rolling Thunder can transfer any Mod equipped on it to another Metal Maniac in the same Realm, without spending APs. Modability rules apply.
+Rat-Ified	AcceleRacers	5	005	Vehicle	Metal Maniacs	4	4	3		Street		
+Flathead Fury	AcceleRacers	6	006	Vehicle	Metal Maniacs	3	4	4		Race	Sand	
+Power-Bomb	AcceleRacers	7	007	Vehicle	Metal Maniacs	5	4	4		Race	Water	
+Piledriver	AcceleRacers	8	008	Vehicle	Metal Maniacs	3	2	4		Street, Off-Road	Rough	
+Jackhammer	AcceleRacers	9	009	Vehicle	Metal Maniacs	4	5	4		Street	Mud	
+Spine Buster	AcceleRacers	10	010	Vehicle	Metal Maniacs	4	4	5		Race		
+Torqued Hollowback	AcceleRacers	11	011	Vehicle	Metal Maniacs	3	3	3		Street	Paved	Salvage some Mods! When Torqued Hollowback enters play, you may choose to spend 1 Action Point for every Mod you return from your junk pile to your hand.
+Torqued Jaw Jammer	AcceleRacers	12	012	Vehicle	Metal Maniacs	4	3	4		Race		
+Torqued Rivited	AcceleRacers	13	013	Vehicle	Metal Maniacs	3	4	5		Street, Off-Road	Mud	
+Torqued Rolling Thunder	AcceleRacers	14	014	Vehicle	Metal Maniacs	3	4	3		Street, Off-Road	Slick	Without spending APs, Torqued Rolling Thunder can transfer any Mod equipped on it to another Metal Maniac in the same Realm. Modability rules DO NOT apply.
+Torqued Rat-Ified	AcceleRacers	15	015	Vehicle	Metal Maniacs	4	5	3		Street	Paved	
+Torqued Flathead Fury	AcceleRacers	16	016	Vehicle	Metal Maniacs	4	4	4		Race	Sand	
+Torqued Power-Bomb	AcceleRacers	17	017	Vehicle	Metal Maniacs	6	4	4		Race	Water	
+Torqued Piledriver	AcceleRacers	18	018	Vehicle	Metal Maniacs	3	3	4		Street, Off-Road	Sand, Rough	
+Torqued Jackhammer	AcceleRacers	19	019	Vehicle	Metal Maniacs	4	6	4		Street, Off-Road	Mud, Slick	
+Torqued Spine Buster	AcceleRacers	20	020	Vehicle	Metal Maniacs	4	4	6		Race	Water	
+SynKro	AcceleRacers	21	021	Vehicle	Teku	6	4	4		Race	Slick	
+Battle Spec	AcceleRacers	22	022	Vehicle	Teku	4	2	3		Street		
+High Voltage	AcceleRacers	23	023	Vehicle	Teku	4	2	2		Street	Rough	When advancing to the SECOND Realm, High Voltage retains any shift cards equipped to it.
+Nightlife	AcceleRacers	24	024	Vehicle	Teku	5	2	4		Race		
+Chicane	AcceleRacers	25	025	Vehicle	Teku	6	3	4		Race		
+SpecTyte	AcceleRacers	26	026	Vehicle	Teku	2	3	3		Off-Road	Sand, Mud, Rough	When this hybrid Vehicle is brought into play, return 1 Mod - with any NUMBER listed in its Speed window - from your junk pile to your hand.
+Power Rage	AcceleRacers	27	027	Vehicle	Teku	5	3	4		Street		
+Bassline	AcceleRacers	28	028	Vehicle	Teku	4	3	2		Street		
+Reverb	AcceleRacers	29	029	Vehicle	Teku	6	4	3		Race	Paved	
+Drift Tech	AcceleRacers	30	030	Vehicle	Teku	4	4	3		Off-Road	Water	
+Hyper SynKro	AcceleRacers	31	031	Vehicle	Teku	7	4	4		Street, Race	Slick, Paved	
+Hyper Battle Spec	AcceleRacers	32	032	Vehicle	Teku	4	3	3		Street		
+Hyper High Voltage	AcceleRacers	33	033	Vehicle	Teku	4	2	3		Street	Rough	This Vehicle NEVER discards equipped Shift Cards when it advances to any new Racing Realm.
+Hyper Nightlife	AcceleRacers	34	034	Vehicle	Teku	5	3	4		Race	Slick	
+Hyper Chicane	AcceleRacers	35	035	Vehicle	Teku	6	4	4		Race	Paved	
+Hyper SpecTyte	AcceleRacers	36	036	Vehicle	Teku	3	3	3		Off-Road	Sand, Mud, Rough	When Hyper SpecTyte is brought into play, salvage 1 Mod from your junk pile and return it to your hand.
+Hyper Power Rage	AcceleRacers	37	037	Vehicle	Teku	6	3	4		Street	Sand	
+Hyper Bassline	AcceleRacers	38	038	Vehicle	Teku	4	3	3		Street		
+Hyper Reverb	AcceleRacers	39	039	Vehicle	Teku	7	4	3		Race	Paved	
+Hyper Drift Tech	AcceleRacers	40	040	Vehicle	Teku	4	5	3		Off-Road	Water	
+Carbide	AcceleRacers	41	041	Vehicle	Silencerz	4	5	4		Race	Slick	
+Nitrium	AcceleRacers	42	042	Vehicle	Silencerz	3	3	5		Race		
+Iridium	AcceleRacers	43	043	Vehicle	Silencerz	3	3	6		Street		
+Covelight	AcceleRacers	44	044	Vehicle	Silencerz	4	3	6		Race		
+Accelium	AcceleRacers	45	045	Vehicle	Silencerz	2	2	3		Off-Road	Sand, Rough	When this fusion-powered Vehicle is brought into play, return 1 Mod - with a NUMBER listed in its Performance window - from your junk pile to your hand.
+Magnesium	AcceleRacers	46	046	Vehicle	Silencerz	4	2	5		Off-Road	Slick	
+Octainium	AcceleRacers	47	047	Vehicle	Silencerz	3	2	5		Off-Road	Sand	
+Metaloid	AcceleRacers	48	048	Vehicle	Silencerz	2	4	4		Street	Rough	
+Anthracite	AcceleRacers	49	049	Vehicle	Silencerz	3	4	4		Race	Paved	
+Technetium	AcceleRacers	50	050	Vehicle	Silencerz	3	3	4		Street		As long as Technetium remains in play, you may keep up to 8 cards in your hand.
+Vectra Carbide	AcceleRacers	51	051	Vehicle	Silencerz	4	6	4		Race	Slick, Paved	
+Vectra Nitrium	AcceleRacers	52	052	Vehicle	Silencerz	4	3	5		Race		
+Vectra Iridium	AcceleRacers	53	053	Vehicle	Silencerz	3	4	6		Street	Paved	
+Vectra Covelight	AcceleRacers	54	054	Vehicle	Silencerz	4	4	6		Race	Paved	
+Vectra Accelium	AcceleRacers	55	055	Vehicle	Silencerz	2	3	3		Off-Road	Sand	When Vectra Accelium is brought into play, salvage any 1 Mod from your junk pile and return it to your hand.
+Vectra Magnesium	AcceleRacers	56	056	Vehicle	Silencerz	4	3	5		Off-Road	Slick	
+Vectra Octainium	AcceleRacers	57	057	Vehicle	Silencerz	3	3	5		Off-Road	Sand, Mud	
+Vectra Metaliod	AcceleRacers	58	058	Vehicle	Silencerz	3	4	4		Street	Rough	
+Vectra Anthracite	AcceleRacers	59	059	Vehicle	Silencerz	4	4	4		Race	Paved	
+Vectra Technetium	AcceleRacers	60	060	Vehicle	Silencerz	4	3	4		Street		As long as Vectra Technetium remains in play, you may keep up to 9 cards in your hand.
+RD01	AcceleRacers	61	061	Vehicle	Racing Drones	4	5	3		Race		
+RD02	AcceleRacers	62	062	Vehicle	Racing Drones	4	6	4		Race		
+RD03	AcceleRacers	63	063	Vehicle	Racing Drones	3	4	2		Street	Rough	When RD03 is brought into play, salvage 1 Hazard Card from your junk pile and return it to your hand.
+RD04	AcceleRacers	64	064	Vehicle	Racing Drones	2	3	3		Off-Road	Mud	When RD04 is brought into play, salvage 1 Mod - with any NUMBER listed in its Power window - from your junk pile and return it to your hand.
+RD05	AcceleRacers	65	065	Vehicle	Racing Drones	2	4	4		Off-Road	Sand	
+RD06	AcceleRacers	66	066	Vehicle	Racing Drones	3	5	4		Street	Paved	
+RD07	AcceleRacers	67	067	Vehicle	Racing Drones	3	4	3		Off-Road	Slick	
+RD08	AcceleRacers	68	068	Vehicle	Racing Drones	3	5	2		Street	Water	
+RD09	AcceleRacers	69	069	Vehicle	Racing Drones	4	4	3		Off-Road		
+RD10	AcceleRacers	70	070	Vehicle	Racing Drones	3	5	3		Race	Slick	
+RD01.v2	AcceleRacers	71	071	Vehicle	Racing Drones	4	5	4		Race		
+RD02.v2	AcceleRacers	72	072	Vehicle	Racing Drones	4	7	4		Race		
+RD03.v2	AcceleRacers	73	073	Vehicle	Racing Drones	4	4	3		Street	Mud, Rough	When RD03.v2 is brought into play, salvage 2 Hazard Cards from your junk pile and return them to your hand.
+RD04.v2	AcceleRacers	74	074	Vehicle	Racing Drones	2	4	3		Off-Road	Sand, Mud	When RD04.v2 is brought into play, salvage any 1 Mod from your junk pile and return it to your hand.
+RD05.v2	AcceleRacers	75	075	Vehicle	Racing Drones	3	4	4		Off-Road	Sand	
+RD06.v2	AcceleRacers	76	076	Vehicle	Racing Drones	3	6	4		Street	Slick, Paved	
+RD07.v2	AcceleRacers	77	077	Vehicle	Racing Drones	3	4	4		Off-Road	Slick	
+RD08.v2	AcceleRacers	78	078	Vehicle	Racing Drones	3	5	3		Street	Water	
+RD09.v2	AcceleRacers	79	079	Vehicle	Racing Drones	4	5	4		Off-Road		
+RD10.v2	AcceleRacers	80	080	Vehicle	Racing Drones	4	5	3		Race	Slick	
+Swamp Realm	AcceleRacers	81	081	Realm			5				Mud	
+Canyon Realm	AcceleRacers	82	082	Realm				6			Rough	
+Chrome Realm	AcceleRacers	83	083	Realm		6					Slick	
+Fog Realm	AcceleRacers	84	084	Realm				7			Rough	No new Shift cards can be equipped to any Vehicle in this realm.
+Storm Realm	AcceleRacers	85	085	Realm		7					Water	
+Ice Realm	AcceleRacers	86	086	Realm		5					Slick	
+Wind Realm	AcceleRacers	87	087	Realm			6				Sand	
+Junk Realm	AcceleRacers	88	088	Realm				5			Paved	While in this Realm, ANY Mod can be equipped to ANY Vehicle. Modability rules DO NOT apply. Vehicles retain ALL equipped Mods when they advance from this Realm.
+Cavern Realm	AcceleRacers	89	089	Realm		7					Mud	
+Water Realm	AcceleRacers	90	090	Realm			6				Water	
+Solar Realm	AcceleRacers	91	091	Realm		6					Paved	
+Cliffside Realm	AcceleRacers	92	092	Realm				6			Rough	
+Labyrinth Realm	AcceleRacers	93	093	Realm				6			Slick	
+Metro Realm	AcceleRacers	94	094	Realm				8			Paved	
+Neon Pipeline Realm	AcceleRacers	95	095	Realm			6				Water	
+Reactor Realm	AcceleRacers	96	096	Realm				8			Slick	
+Ruins Realm	AcceleRacers	97	097	Realm		5					Rough	
+Lava Realm	AcceleRacers	98	098	Realm		8					Mud	
+Cosmic Realm	AcceleRacers	99	099	Realm			7				Sand	
+Blizzard Realm	AcceleRacers	100	100	Realm			7				Slick	
+Cybergrid Realm	AcceleRacers	101	101	Realm				7			Paved	
+Monument Realm	AcceleRacers	102	102	Realm				5			Sand	
+Desest Realm	AcceleRacers	103	103	Realm			8				Sand	
+Warped Realm	AcceleRacers	104	104	Realm			5				Water	
+Micro Realm	AcceleRacers	105	105	Realm		6					Paved	
+Sprout Road	AcceleRacers	106	106	AC		1		2	4			Cancel all Hazards played against a Vehicle stack as long as Sprout Road remains equipped to that Vehicle.
+Hyper-Jump	AcceleRacers	107	107	AC		1	2		2		Paved	
+Frictionless	AcceleRacers	108	108	AC		2		1	2		Sand	
+Lightning Rod	AcceleRacers	109	109	AC			3		3			
+Fog Vision	AcceleRacers	110	110	AC					5			For the Realm in which Fog Vision enters play, you may relocate the SPP ESCAPE VALUE on YOUR SIDE ONLY. Mark new location with a token. Opponent must use the printed Escape Value. Realm returns to normal when Fog Vision is unequipped.
+Slip Grip	AcceleRacers	111	111	AC			1	2	2		Slick	
+Wind Shark	AcceleRacers	112	112	AC		2	1	1	3			
+Undistort	AcceleRacers	113	113	AC		1	1	1	4			When this card comes into play, you make look at your opponent's hand.
+Night Sight	AcceleRacers	114	114	AC		1	1	1	4			When this card is brought into play, draw two extra cards from your draw pile for free.
+Hydroglide	AcceleRacers	115	115	AC		1	1	2	3		Water	
+Turn & Burn	AcceleRacers	116	116	AC		1	2	1	3		Sand, Slick	
+Navigator	AcceleRacers	117	117	AC				3	4			When this card comes into play, you may equip 1 Shift card for free on ANY Vehicle.
+Battering Bubble	AcceleRacers	118	118	AC			1	1	5			Hazards do not affect this Vehicle stack while Battering Bubble remains equipped.
+Wall Crawl	AcceleRacers	119	119	AC		1	1	2	3			
+Sound Buffer	AcceleRacers	120	120	AC		3			3			
+Phantom Form	AcceleRacers	121	121	AC			3		4			When this card is brought into play, return a Shift card from your junk pile to your hand.
+Light Speed	AcceleRacers	122	122	AC		3			3			
+Impervious Tires	AcceleRacers	123	123	AC		2	2	2	4			
+Anti-Gravitation	AcceleRacers	124	124	AC		2		2	3		Paved	
+Total Traction	AcceleRacers	125	125	AC					4		Water, Sand, Mud, Slick, Rough, Paved	
+Folding Corners	AcceleRacers	126	126	AC		1	1	1	3			Place a token on this card every turn your spend no APs. Each token adds a +1 to this card's S, P and P values
+2-D	AcceleRacers	127	127	AC				2	0		Paved	When a Hazard is played against you, equip 2-D on the targeted Vehicle to cancel the Hazard and send it to your opponent's junk pile.
+Sand Speed	AcceleRacers	128	128	AC			3	1	3		Sand	
+Teleport	AcceleRacers	129	129	AC		1	1	1	4			Protect a Vehicle stack from Hazards for 3 turns. When Teleport is equipped, place 3 tokens on it and remove 1 each turn during your tune-up phase to track the 3 turns.
+Size Scaler	AcceleRacers	130	130	AC					3	Street, Race, Off-Road		This Vehicle can equip ANY Mod while Size Scaler is equipped, and keeps these Mods when Vehicle advances.
+Traction Control	AcceleRacers	131	131	Mods		1		1	1	Race	Paved	
+Spiked Tires	AcceleRacers	132	132	Mods				2	1	Street	Slick, Paved	
+Aero Package	AcceleRacers	133	133	Mods		2		1	2	Race		
+Active Camouflage	AcceleRacers	134	134	Mods				3	2	Race		
+Rocked Socket HyperPod	AcceleRacers	135	135	Mods		3	1		3	Race		
+Mega Bass Box	AcceleRacers	136	136	Mods	Teku	2	2		4	Race		Can only be used by a Teku vehicle.
+Sweepers	AcceleRacers	137	137	Mods	Racing Drones	2	2		4	Off-Road		Can only be used by a Racing Drone vehicle.
+Dual Driller HyperPod	AcceleRacers	138	138	Mods			3		3	Off-Road		
+Poly-Alloy Wheels	AcceleRacers	139	139	Mods			1	1	2	Street	Slick, Paved	
+Asphalt Anchor	AcceleRacers	140	140	Mods				2	3	Street	Slick	
+Grappler Claw	AcceleRacers	141	141	Mods			1	2	2	Street	Rough	
+Hyper Beams	AcceleRacers	142	142	Mods		2			1	Off-Road		
+Camo Skin	AcceleRacers	143	143	Mods	Silencerz	1		3	4	Street		Can only be used by a Silencerz vehicle.
+Pulse Emitter	AcceleRacers	144	144	Mods		2		1	2	Street, Race		
+Nitrox3	AcceleRacers	145	145	Mods		2	3		4	Street		When brought into play, mark this Mod with 3 tokens. Beginning on your next tune-up phase, remove 1 token each turn. When all tokens are gone, immediately discard Nitrox3 to your junk pile.
+Spoiler	AcceleRacers	146	146	Mods		2			2	Race		
+Gyro Stabilizer	AcceleRacers	147	147	Mods				2	2	Off-Road		
+Carpoon HyperPod	AcceleRacers	148	148	Mods		3			3	Off-Road		
+Slam Ram HyperPod	AcceleRacers	149	149	Mods			2	1	2	Street	Rough	
+"Second Wind" O2 Tank	AcceleRacers	150	150	Mods			2	1	2	Race	Water	
+Vector Thrust	AcceleRacers	151	151	Mods		1		2	2	Race		
+Armored Plow	AcceleRacers	152	152	Mods			2		4	Off-Road		
+Suspension Enhancers	AcceleRacers	153	153	Mods		1			2	Race	Rough, Paved	Send 1 opposing Vehicle back 1 Realm, discarding everything but Mods to its junk pile. If Vehicle is in the first Realm, it returns to its owner's hand after discarding ALL its equipped cards to the junk pile.
+Strato-Thruster	AcceleRacers	154	154	Mods					5	Race		At the start of your next turn, the Vehicle this equips AUTOMATICALLY ADVANCES to the next Realm and Strato-Thruster is removed to your junk pile.
+Octo-Rod HyperPod	AcceleRacers	155	155	Mods			3		3	Race, Off-Road	Mud, Rough	
+Four Wheel Steering	AcceleRacers	156	156	Mods		1		1	1	Race	Slick	
+Jump Jets	AcceleRacers	157	157	Mods				1	2	Street		When this card comes into play, you can draw 1 extra card for free.
+Balance Box	AcceleRacers	158	158	Mods		1	1	1	2	Race		
+Engine Elixir	AcceleRacers	159	159	Mods		2	1		2	Off-Road		
+Feather Frame	AcceleRacers	160	160	Mods		2		2	3	Off-Road		
+Racing Slicks	AcceleRacers	161	161	Mods		1		1	1	Off-Road	Paved	
+Shell Skin	AcceleRacers	162	162	Mods			1		4	Street	Water, Rough	Shell Skin protects a Vehicle stack from 2 Hazards. When equipped, mark this Mod with 2 tokens and remove 1 each time a Hazard is played against its Vehicle stack
+Spy Eye	AcceleRacers	163	163	Mods		1		2	2	Race		When Spy Eye is brought into play, look at your opponent's hand
+Air Refresher	AcceleRacers	164	164	Mods		1	1	1	4	Street		When this Mod comes into play, return one card from your junk pile to your hand.
+Mega Charger	AcceleRacers	165	165	Mods			1		1	Street	Mud	
+Hardened Underbelly	AcceleRacers	166	166	Mods		1		1	3	Off-Road		Hardened Underbelly allows the Vehicle it equips to KEEP 1 SHIFT CARD EQUIPPED when it advances to any new Realm
+Wheel Shield	AcceleRacers	167	167	Mods		1	2	1	3	Off-Road		
+Dragon Torch	AcceleRacers	168	168	Mods	Metal Maniacs	1	2	1	4	Off-Road		Can only be used by a Metal Maniac vehicle.
+Diffusion Glass	AcceleRacers	169	169	Mods		1	1		1	Street		
+Tweak Box	AcceleRacers	170	170	Mods			3		3	Race		
+Moss Gorrilas	AcceleRacers	171	171	Hazard					4			The opposing player must remove all Mods from the targeted Vehicle and place them in their junk pile.
+Carnivorous Plants	AcceleRacers	172	172	Hazard				-1	2			
+Behemoth Mosquitoes	AcceleRacers	173	173	Hazard		-1	-1		3			
+Mutant Vulture	AcceleRacers	174	174	Hazard					4			Choose one of your opponent's in-play Accele-Charger cards and remove it to their junk pile.
+Rockslide	AcceleRacers	175	175	Hazard					2			Cancel the Terrain SPP bonus for any 1 opposing Vehicle while it remains in the current Realm.
+Bat Swarm	AcceleRacers	176	176	Hazard			-1	-1	3			
+Molten River	AcceleRacers	177	177	Hazard					3			OVERHEAT: Have opponent place 4 tokens on the Mod you target, then remove 1 token each turn during THEIR tune-up phase. When all tokens are gone, immediately remove that Mod to its owner's junk pile.
+Ice Yeti	AcceleRacers	178	178	Hazard			-2		3			
+Ice Shrapnel	AcceleRacers	179	179	Hazard					5			Ice Shrapnel allows you to remove ALL RACE MODS equipped on ALL opposing vehicles
+Kamikaze Semis	AcceleRacers	180	180	Hazard		-2			3			
+Wrecking Balls	AcceleRacers	181	181	Hazard					3			Your opponent cannot play any Mods on their next turn.
+Spire Slalom	AcceleRacers	182	182	Hazard				-2	3			
+Hairpin Turn	AcceleRacers	183	183	Hazard		-1			2			
+Proto-Sharks	AcceleRacers	184	184	Hazard					2			The opposing player cannot play any Shift cards on their next turn.
+Tsunami	AcceleRacers	185	185	Hazard					5			Remove ALL STREET MODS equipped on ALL opposing vehicles.
+Lightning Barrage	AcceleRacers	186	186	Hazard			-1	-1	3			
+Black Ice	AcceleRacers	187	187	Hazard				-2	3			
+Chrome Globes	AcceleRacers	188	188	Hazard					3			Your opponent only plays with 3 APs (no team AP bonuses) on their next turn.
+Scorpion Ambush	AcceleRacers	189	189	Hazard			-1		2			
+Choke Valves	AcceleRacers	190	190	Hazard		-1		-1	3			
+Toxic Gators	AcceleRacers	191	191	Hazard			-2		3			
+Electric Fry	AcceleRacers	192	192	Hazard					4			Remove 1 equipped Accele-Charger from 1 opposing Vehicle and place it in its owner's junk pile
+Magnetic Bounce	AcceleRacers	193	193	Hazard					4			Send 1 opposing Vehicle back 1 Realm, discarding everything but Mods to its owner's junk pile. If Vehicle is in the first Realm, it returns to its owner's hand after discarding ALL its equipped cards to the junk pile.
+Gear Crush	AcceleRacers	194	194	Hazard		-2			3			
+Stone Colossus	AcceleRacers	195	195	Hazard		-1	-1	-1	4			
+Sweeper Strike	AcceleRacers	196	196	Hazard					5			Remove 1 opposing Vehicle stack to its owner's junk pile.
+Acceleron Virus	AcceleRacers	197	197	Hazard					3			Remove 1 Accele-Charger with an AP cost of 3 or less from its Vehicle and place in owner's junk pile.
+Tornado Vortex	AcceleRacers	198	198	Hazard					4			Force 2 opposing Vehicles to swap positions on the track. Both remain equipped as they are.
+Mechanoid Destroyer	AcceleRacers	199	199	Hazard		-1	-1		3			
+Solar Flare	AcceleRacers	200	200	Hazard				-2	3			
+Acid Bath	AcceleRacers	201	201	Hazard					5			Destroy a vehicle after 4 turns. Opponent places 4 tokens on the Vehicle you target and removes 1 token each turn during THEIR tune-up phase. When the last token is removed, the Vehicle is immediately sent to its owner's junk pile.
+Nano Parasites	AcceleRacers	202	202	Hazard			-2		3			
+Maze Minotaur	AcceleRacers	203	203	Hazard		-1		-1	3			
+Forest Inferno	AcceleRacers	204	204	Hazard					3			Look at your opponent's hand, then have them discard 1 card of their choice to their junk pile.
+Meteor Shower	AcceleRacers	205	205	Hazard		-2			3			
+Blown Hydrant	AcceleRacers	206	206	Hazard					4			Remove 1 Mod of your choice from target Vehicle and send it to its owner's junk pile.
+Avalanche	AcceleRacers	207	207	Hazard		-1			2			
+Stone Sphinx	AcceleRacers	208	208	Hazard			-1		2			
+Escher's World	AcceleRacers	209	209	Hazard					3			Remove 1 Shift card of your choice from target Vehicle and place it in its owner's junk pile.
+Big Trouble	AcceleRacers	210	210	Hazard				-1	2			
+Pick a Line	AcceleRacers	211	211	Shift					5			If you have two Vehicles in the same Realm, send one to your junk pile to instantly advance the other out of the Realm. The advancing vehicle discards everything but Mods.
+Smooth Driving	AcceleRacers	212	212	Shift			1		1			
+Hot Wire	AcceleRacers	213	213	Shift				1	1			When you equip this card, you may choose to transfer 1 Mod from ANY one of your in-play Vehicles to ANY of your other in-play Vehicles. Modability rules apply.
+Endure	AcceleRacers	214	214	Shift				1	1			This Shift card is immune to all Hazards - it can't be destroyed.
+Reaction Time	AcceleRacers	215	215	Shift		1		1	2			
+Downshift	AcceleRacers	216	216	Shift			2		2			
+All or Nothing	AcceleRacers	217	217	Shift		1	1		3			
+Rev Matching	AcceleRacers	218	218	Shift			2		4			When this card comes into play, you may also equip 1 Accele-Charger card from your hand on any one of your in-play Vehicles for free. Vehicles may NOT have more than one Accele-Charger equipped.
+Drifting	AcceleRacers	219	219	Shift				1	1			
+Buckle Up	AcceleRacers	220	220	Shift		1	1		3			When this card comes into play, return 1 Vehicle from your junk pile to the first Realm.
+Wrong Way	AcceleRacers	221	221	Shift		3	3	3	5			
+Guts	AcceleRacers	222	222	Shift		1			2			On the turn that Guts is equipped, you may also equip 1 Mod from your hand on the same Vehicle for free. Modability rules DO NOT apply.
+Cornering	AcceleRacers	223	223	Shift		1			1			
+Simulator Run	AcceleRacers	224	224	Shift		1	1	1	2			
+Draft & Pass	AcceleRacers	225	225	Shift					3			Swap the position of any 2 of your in-play Vehicles from the same team. Swapped Vehicles unequip all but Mods.
+Burnout	AcceleRacers	226	226	Shift			1	1	1			
+Bootlegger Reverse	AcceleRacers	227	227	Shift					5			GAMBLE: When this card is equipped, you MUST choose an opposing Vehicle in the same Realm and race to reach the next Realm first. The losing Vehicle is immediately removed to its owner's junk pile.
+Rubbin' is Racin'	AcceleRacers	228	228	Shift			2		2			
+Home Track Advantage	AcceleRacers	229	229	Shift		1	1		4			When you equip this card, you may choose to swap the position of any 2 Realm cards on the table.
+Slalom	AcceleRacers	230	230	Shift				2	2			
+Hack Mimic	AcceleRacers	231	231	Shift			1	1	2			Change this Vehicle's team allegiance. Place a token on the Team Icon of your choice - you may only select one team.
+Shortcut	AcceleRacers	232	232	Shift				1	3			On the turn that Shortcut is equipped, return 1 Shift card from your junk pile to your hand.
+Emergency Brake	AcceleRacers	233	233	Shift			1	1	1			
+Draft	AcceleRacers	234	234	Shift		1	1	1	2			
+Visor Mask	AcceleRacers	235	235	Shift		2			2			
+Recover Control	AcceleRacers	236	236	Shift				1	1			
+Sound Proof	AcceleRacers	237	237	Shift		1			1			
+Dodging Disaster	AcceleRacers	238	238	Shift					0			Play this card at any time to cancel one Hazard then discard Dodging Disaster to your junk pile.
+Under the Hood	AcceleRacers	239	239	Shift		1	1		3			When this card comes into play, place a Mod on any one of your in-play Vehicles for free. Modability rules DO NOT apply.
+Pedal to the Metal	AcceleRacers	240	240	Shift		2			2			
+Battle Spec 2	AcceleRacers	241	241	Vehicle	Teku	4	3	3		Street	Water	
+Flathead Fury 2	AcceleRacers	242	242	Vehicle	Metal Maniacs	3	5	4		Street, Race	Sand	
+Rat-Ified 2	AcceleRacers	243	243	Vehicle	Metal Maniacs	4	4	3		Street	Water	
+Technetium 2	AcceleRacers	244	244	Vehicle	Silencerz	3	3	4		Street	Sand	
+RD03+	AcceleRacers	245	245	Vehicle	Racing Drones	3	4	3		Street	Rough	
+RD09+	AcceleRacers	246	246	Vehicle	Racing Drones	4	5	3		Off-Road		
+Quick Reference Card	AcceleRacers	QuickReference,QuickReferenceBack		Token								
+Token Chip	AcceleRacers	Chip.png,ChipBack.png		Token								

@@ -1,0 +1,114 @@
+<plugin>
+
+<playerstat>
+	<label>Action Points (AP)</label>
+</playerstat>
+
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+</deckzone>
+<deckzone>
+	<label>Realms</label>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+<gamezone>
+	<label>Deck</label>
+</gamezone>
+<gamezone>
+	<label>Junk Pile</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Realms</label>
+	<visibletoowner>yes</visibletoowner>
+</gamezone>
+
+<phase>
+	<label>Draw & Advance</label>
+</phase>
+<phase>
+	<label>Play Vehicle</label>
+</phase>
+<phase>
+	<label>Tune Up</label>
+</phase>
+<phase>
+	<label>AP & Cards</label>
+</phase>
+<phase>
+	<label>Discard & End</label>
+</phase>
+
+<generalfunction>
+	<label>Draw</label>
+	<kind>DRAWCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Flip Coin</label>
+	<kind>FLIPCOIN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Next Phase</label>
+	<kind>NEXTPHASE</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction>
+	<label>Next Turn</label>
+	<kind>NEXTTURN</kind>
+	<includeasbutton>yes</includeasbutton>
+</generalfunction>
+
+<cardfunction>
+	<label>Add Green Counter</label>
+	<kind>ADDCOUNTER</kind>
+	<color>green</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.15</PositionX>
+	<PositionY>.96</PositionY>
+</cardfunction>
+<cardfunction>
+	<label>Remove Green Counter</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>green</color>
+</cardfunction>
+<cardfunction>
+	<label>Add Red Counter</label>
+	<kind>ADDCOUNTER</kind>
+	<color>red</color>
+	<includeasbutton>yes</includeasbutton>
+	<PositionX>.85</PositionX>
+	<PositionY>.96</PositionY>
+</cardfunction>
+<cardfunction>
+	<label>Remove Red Counter</label>
+	<kind>REMOVECOUNTER</kind>
+	<color>red</color>
+</cardfunction>
+
+<cardfunction>
+	<label>Clear Counters</label>
+	<kind>CLEARCARD</kind>
+	<includeasbutton>yes</includeasbutton>
+</cardfunction>
+
+<definition>
+	<kind>ISALLOWINGMULTIPLECARDBACKS</kind>
+</definition>
+<definition>
+	<kind>NUMDIGITSINSTAT</kind>
+	<value>2</value>
+</definition>
+<definition>
+	<kind>GRIDSIZE</kind>
+	<value>.015</value>
+</definition>
+
+</plugin>
