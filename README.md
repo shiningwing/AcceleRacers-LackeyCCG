@@ -8,3 +8,7 @@ To install, download the plugins folder and drop it in your LackeyCCG folder. Wh
 2. Add decklists from Starter Set  
 3. Add card rarities
 4. Define booster packs
+
+##Credits:  
+* Shining Wing: The plugin itself  
+* Carl Smith: [The card images used in this plugin](http://s188.photobucket.com/user/Cwaterboy/library/Acceleracers%20Card%20Game)
