@@ -10,7 +10,7 @@ Piledriver	AcceleRacers	8	008	Vehicle	Metal Maniacs	3	2	4		Street, Off-Road	Roug
 Jackhammer	AcceleRacers	9	009	Vehicle	Metal Maniacs	4	5	4		Street	Mud	
 Spine Buster	AcceleRacers	10	010	Vehicle	Metal Maniacs	4	4	5		Race		
 Torqued Hollowback	AcceleRacers	11	011	Vehicle	Metal Maniacs	3	3	3		Street	Paved	Salvage some Mods! When Torqued Hollowback enters play, you may choose to spend 1 Action Point for every Mod you return from your junk pile to your hand.
-Torqued Jaw Jammer	AcceleRacers	12	012	Vehicle	Metal Maniacs	4	3	4		Race		
+Torqued Jaw Jammer	AcceleRacers	12	012	Vehicle	Metal Maniacs	4	3	5		Race		
 Torqued Rivited	AcceleRacers	13	013	Vehicle	Metal Maniacs	3	4	5		Street, Off-Road	Mud	
 Torqued Rolling Thunder	AcceleRacers	14	014	Vehicle	Metal Maniacs	3	4	3		Street, Off-Road	Slick	Without spending APs, Torqued Rolling Thunder can transfer any Mod equipped on it to another Metal Maniac in the same Realm. Modability rules DO NOT apply.
 Torqued Rat-Ified	AcceleRacers	15	015	Vehicle	Metal Maniacs	4	5	3		Street	Paved	
