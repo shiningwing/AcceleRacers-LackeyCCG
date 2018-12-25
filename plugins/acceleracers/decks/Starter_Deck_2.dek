@@ -1,0 +1,48 @@
+<deck version="0.8">
+	<meta>
+		<game>acceleracers</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="107">Hyper-Jump</name><set>AcceleRacers</set></card>
+		<card><name id="112">Wind Shark</name><set>AcceleRacers</set></card>
+		<card><name id="112">Wind Shark</name><set>AcceleRacers</set></card>
+		<card><name id="119">Wall Crawl</name><set>AcceleRacers</set></card>
+		<card><name id="129">Teleport</name><set>AcceleRacers</set></card>
+		<card><name id="133">Aero Package</name><set>AcceleRacers</set></card>
+		<card><name id="133">Aero Package</name><set>AcceleRacers</set></card>
+		<card><name id="140">Asphalt Anchor</name><set>AcceleRacers</set></card>
+		<card><name id="142">Hyper Beams</name><set>AcceleRacers</set></card>
+		<card><name id="159">Engine Elixir</name><set>AcceleRacers</set></card>
+		<card><name id="164">Air Refresher</name><set>AcceleRacers</set></card>
+		<card><name id="165">Megacharger</name><set>AcceleRacers</set></card>
+		<card><name id="167">Wheel Shield</name><set>AcceleRacers</set></card>
+		<card><name id="167">Wheel Shield</name><set>AcceleRacers</set></card>
+		<card><name id="171">Moss Gorrilas</name><set>AcceleRacers</set></card>
+		<card><name id="172">Carnivorous Plants</name><set>AcceleRacers</set></card>
+		<card><name id="174">Mutant Vulture</name><set>AcceleRacers</set></card>
+		<card><name id="183">Hairpin Turn</name><set>AcceleRacers</set></card>
+		<card><name id="183">Hairpin Turn</name><set>AcceleRacers</set></card>
+		<card><name id="190">Choke Valves</name><set>AcceleRacers</set></card>
+		<card><name id="194">Gear Crush</name><set>AcceleRacers</set></card>
+		<card><name id="200">Solar Flare</name><set>AcceleRacers</set></card>
+		<card><name id="208">Stone Sphinx</name><set>AcceleRacers</set></card>
+		<card><name id="224">Simulator Run</name><set>AcceleRacers</set></card>
+		<card><name id="225">Draft &amp; Pass</name><set>AcceleRacers</set></card>
+		<card><name id="228">Rubbin&apos; is Racin&apos;</name><set>AcceleRacers</set></card>
+		<card><name id="233">Emergency Brake</name><set>AcceleRacers</set></card>
+		<card><name id="235">Visor Mask</name><set>AcceleRacers</set></card>
+		<card><name id="237">Sound Proof</name><set>AcceleRacers</set></card>
+		<card><name id="238">Dodging Disaster</name><set>AcceleRacers</set></card>
+		<card><name id="239">Under the Hood</name><set>AcceleRacers</set></card>
+		<card><name id="244">Technetium 2</name><set>AcceleRacers</set></card>
+		<card><name id="245">RD03+</name><set>AcceleRacers</set></card>
+		<card><name id="246">RD09+</name><set>AcceleRacers</set></card>
+		<card><name id="46">Magnesium</name><set>AcceleRacers</set></card>
+		<card><name id="58">Vectra Metaliod</name><set>AcceleRacers</set></card>
+		<card><name id="67">RD07</name><set>AcceleRacers</set></card>
+	</superzone>
+	<superzone name="Realms">
+		<card><name id="81">Swamp Realm</name><set>AcceleRacers</set></card>
+		<card><name id="102">Monument Realm</name><set>AcceleRacers</set></card>
+	</superzone>
+</deck>

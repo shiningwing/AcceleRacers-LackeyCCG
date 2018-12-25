@@ -163,7 +163,7 @@ Racing Slicks	AcceleRacers	161	161	Mods		1		1	1	Off-Road	Paved
 Shell Skin	AcceleRacers	162	162	Mods			1		4	Street	Water, Rough	Shell Skin protects a Vehicle stack from 2 Hazards. When equipped, mark this Mod with 2 tokens and remove 1 each time a Hazard is played against its Vehicle stack
 Spy Eye	AcceleRacers	163	163	Mods		1		2	2	Race		When Spy Eye is brought into play, look at your opponent's hand
 Air Refresher	AcceleRacers	164	164	Mods		1	1	1	4	Street		When this Mod comes into play, return one card from your junk pile to your hand.
-Mega Charger	AcceleRacers	165	165	Mods			1		1	Street	Mud	
+Megacharger	AcceleRacers	165	165	Mods			1		1	Street	Mud	
 Hardened Underbelly	AcceleRacers	166	166	Mods		1		1	3	Off-Road		Hardened Underbelly allows the Vehicle it equips to KEEP 1 SHIFT CARD EQUIPPED when it advances to any new Realm
 Wheel Shield	AcceleRacers	167	167	Mods		1	2	1	3	Off-Road		
 Dragon Torch	AcceleRacers	168	168	Mods	Metal Maniacs	1	2	1	4	Off-Road		Can only be used by a Metal Maniac vehicle.

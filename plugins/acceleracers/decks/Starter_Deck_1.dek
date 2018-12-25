@@ -1,0 +1,48 @@
+<deck version="0.8">
+	<meta>
+		<game>acceleracers</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="2">Jaw Jammer</name><set>AcceleRacers</set></card>
+		<card><name id="241">Battle Spec 2</name><set>AcceleRacers</set></card>
+		<card><name id="242">Flathead Fury 2</name><set>AcceleRacers</set></card>
+		<card><name id="243">Rat-Ified 2</name><set>AcceleRacers</set></card>
+		<card><name id="24">Nightlife</name><set>AcceleRacers</set></card>
+		<card><name id="38">Hyper Bassline</name><set>AcceleRacers</set></card>
+		<card><name id="111">Slip Grip</name><set>AcceleRacers</set></card>
+		<card><name id="116">Turn &amp; Burn</name><set>AcceleRacers</set></card>
+		<card><name id="116">Turn &amp; Burn</name><set>AcceleRacers</set></card>
+		<card><name id="119">Wall Crawl</name><set>AcceleRacers</set></card>
+		<card><name id="129">Teleport</name><set>AcceleRacers</set></card>
+		<card><name id="146">Spoiler</name><set>AcceleRacers</set></card>
+		<card><name id="163">Spy Eye</name><set>AcceleRacers</set></card>
+		<card><name id="150">&quot;Second Wind&quot; O2 Tank</name><set>AcceleRacers</set></card>
+		<card><name id="140">Asphalt Anchor</name><set>AcceleRacers</set></card>
+		<card><name id="158">Balance Box</name><set>AcceleRacers</set></card>
+		<card><name id="158">Balance Box</name><set>AcceleRacers</set></card>
+		<card><name id="149">Slam Ram HyperPod</name><set>AcceleRacers</set></card>
+		<card><name id="149">Slam Ram HyperPod</name><set>AcceleRacers</set></card>
+		<card><name id="164">Air Refresher</name><set>AcceleRacers</set></card>
+		<card><name id="203">Maze Minotaur</name><set>AcceleRacers</set></card>
+		<card><name id="182">Spire Slalom</name><set>AcceleRacers</set></card>
+		<card><name id="205">Meteor Shower</name><set>AcceleRacers</set></card>
+		<card><name id="207">Avalanche</name><set>AcceleRacers</set></card>
+		<card><name id="207">Avalanche</name><set>AcceleRacers</set></card>
+		<card><name id="171">Moss Gorrilas</name><set>AcceleRacers</set></card>
+		<card><name id="208">Stone Sphinx</name><set>AcceleRacers</set></card>
+		<card><name id="172">Carnivorous Plants</name><set>AcceleRacers</set></card>
+		<card><name id="174">Mutant Vulture</name><set>AcceleRacers</set></card>
+		<card><name id="214">Endure</name><set>AcceleRacers</set></card>
+		<card><name id="226">Burnout</name><set>AcceleRacers</set></card>
+		<card><name id="216">Downshift</name><set>AcceleRacers</set></card>
+		<card><name id="230">Slalom</name><set>AcceleRacers</set></card>
+		<card><name id="238">Dodging Disaster</name><set>AcceleRacers</set></card>
+		<card><name id="239">Under the Hood</name><set>AcceleRacers</set></card>
+		<card><name id="224">Simulator Run</name><set>AcceleRacers</set></card>
+		<card><name id="225">Draft &amp; Pass</name><set>AcceleRacers</set></card>
+	</superzone>
+	<superzone name="Realms">
+		<card><name id="86">Ice Realm</name><set>AcceleRacers</set></card>
+		<card><name id="88">Junk Realm</name><set>AcceleRacers</set></card>
+	</superzone>
+</deck>
