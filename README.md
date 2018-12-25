@@ -1,12 +1,12 @@
 # AcceleRacers-LackeyCCG
 A plugin for LackeyCCG based on the Hot Wheels AcceleRacers Collectible Card Game
 
-To install, download the plugins folder and drop it in your LackeyCCG folder. When this is finished, a proper update list will be provided.
+To install, copy and paste the following URL into LackeyCCG's AutoUpdate URL field:   
+https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/updatelist.txt
 
 ## To-do:  
-1. Create update list file
-2. Add card rarities
-3. Define booster packs
+1. Add card rarities
+2. Define booster packs
 
 ## Credits:  
 * Shining Wing: The plugin itself  
