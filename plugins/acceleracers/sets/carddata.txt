@@ -138,7 +138,7 @@ Mega Bass Box	AcceleRacers	136	136	Mods	Teku	2	2		4	Race		Can only be used by a 
 Sweepers	AcceleRacers	137	137	Mods	Racing Drones	2	2		4	Off-Road		Can only be used by a Racing Drone vehicle.
 Dual Driller HyperPod	AcceleRacers	138	138	Mods			3		3	Off-Road		
 Poly-Alloy Wheels	AcceleRacers	139	139	Mods			1	1	2	Street	Slick, Paved	
-Asphalt Anchor	AcceleRacers	140	140	Mods				2	3	Street	Slick	
+Asphalt Anchor	AcceleRacers	140	140	Mods				2	3	Street	Slick	Once equipped, you may junk Asphalt Anchor to cancel 1 Hazard played against any card in the same Realm as Asphalt Anchor
 Grappler Claw	AcceleRacers	141	141	Mods			1	2	2	Street	Rough	
 Hyper Beams	AcceleRacers	142	142	Mods		2			1	Off-Road		
 Camo Skin	AcceleRacers	143	143	Mods	Silencerz	1		3	4	Street		Can only be used by a Silencerz vehicle.
@@ -150,7 +150,7 @@ Carpoon HyperPod	AcceleRacers	148	148	Mods		3			3	Off-Road
 Slam Ram HyperPod	AcceleRacers	149	149	Mods			2	1	2	Street	Rough	
 "Second Wind" O2 Tank	AcceleRacers	150	150	Mods			2	1	2	Race	Water	
 Vector Thrust	AcceleRacers	151	151	Mods		1		2	2	Race		
-Armored Plow	AcceleRacers	152	152	Mods			2		4	Off-Road		
+Armored Plow	AcceleRacers	152	152	Mods			2		4	Off-Road		While equipped, this Mod cancels all Hazards of 2AP or less played against this Vehicle stack.
 Suspension Enhancers	AcceleRacers	153	153	Mods		1			2	Race	Rough, Paved	Send 1 opposing Vehicle back 1 Realm, discarding everything but Mods to its junk pile. If Vehicle is in the first Realm, it returns to its owner's hand after discarding ALL its equipped cards to the junk pile.
 Strato-Thruster	AcceleRacers	154	154	Mods					5	Race		At the start of your next turn, the Vehicle this equips AUTOMATICALLY ADVANCES to the next Realm and Strato-Thruster is removed to your junk pile.
 Octo-Rod HyperPod	AcceleRacers	155	155	Mods			3		3	Race, Off-Road	Mud, Rough	
@@ -215,7 +215,7 @@ Hot Wire	AcceleRacers	213	213	Shift				1	1			When you equip this card, you may c
 Endure	AcceleRacers	214	214	Shift				1	1			This Shift card is immune to all Hazards - it can't be destroyed.
 Reaction Time	AcceleRacers	215	215	Shift		1		1	2			
 Downshift	AcceleRacers	216	216	Shift			2		2			
-All or Nothing	AcceleRacers	217	217	Shift		1	1		3			
+All or Nothing	AcceleRacers	217	217	Shift		1	1		3			This card blocks all Hazards played against the Vehicle stack it equips for 4 turns. After equipping this Mod, mark it with 4 tokens. Remove 1 each turn during your tune-up phase. If the vehicle doesn't advance to the next realm before the tokens run out (4 turns), immediately remove the vehicle to your junk pile.
 Rev Matching	AcceleRacers	218	218	Shift			2		4			When this card comes into play, you may also equip 1 Accele-Charger card from your hand on any one of your in-play Vehicles for free. Vehicles may NOT have more than one Accele-Charger equipped.
 Drifting	AcceleRacers	219	219	Shift				1	1			
 Buckle Up	AcceleRacers	220	220	Shift		1	1		3			When this card comes into play, return 1 Vehicle from your junk pile to the first Realm.
@@ -232,7 +232,7 @@ Slalom	AcceleRacers	230	230	Shift				2	2
 Hack Mimic	AcceleRacers	231	231	Shift			1	1	2			Change this Vehicle's team allegiance. Place a token on the Team Icon of your choice - you may only select one team.
 Shortcut	AcceleRacers	232	232	Shift				1	3			On the turn that Shortcut is equipped, return 1 Shift card from your junk pile to your hand.
 Emergency Brake	AcceleRacers	233	233	Shift			1	1	1			
-Draft	AcceleRacers	234	234	Shift		1	1	1	2			
+Draft	AcceleRacers	234	234	Shift		1	1	1	2	You can only play Draft if you have 2 vehicles from the same team in the same Realm, and you must equip it on one of them.		
 Visor Mask	AcceleRacers	235	235	Shift		2			2			
 Recover Control	AcceleRacers	236	236	Shift				1	1			
 Sound Proof	AcceleRacers	237	237	Shift		1			1			
