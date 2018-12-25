@@ -1,0 +1,9 @@
+<version>
+
+<lastupdateYYMMDD>181225</lastupdateYYMMDD>
+<quality>HIGH</quality>
+<versionurl>https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/version.txt</versionurl>
+<updateurl>https://cdn.jsdelivr.net/gh/shiningwing/AcceleRacers-LackeyCCG/plugins/acceleracers/updatelist.txt</updateurl>
+<message>Initial version of AcceleRacers-LackeyCCG</message>
+
+</version>
